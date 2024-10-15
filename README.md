@@ -10,10 +10,10 @@ In order to reduce computational cost, the code does not search for plates in al
 
 ![Generatedexample1-ezgif (2)](https://github.com/user-attachments/assets/10244426-c1a1-4287-b3c9-7b47d9c181ad)
 
-Functions:
+The code has two functions:
  
-- Display: the reading happens in real time as the video is played;
-- Generate_video: a file with the license plate values is created.
+- **Display:** the reading happens in real time as the video is played;
+- **Generate_video:** a file with the license plate values is created.
 
 </div>
   
@@ -21,7 +21,7 @@ Functions:
  
 <div> 
 
-The YOLO V8 model was trained in this dataset: https://github.com/raysonlaroca/rodosol-alpr-dataset
+The YOLO V8 model was trained on this dataset: https://github.com/raysonlaroca/rodosol-alpr-dataset
 
 Video used for demonstration: https://www.youtube.com/watch?v=7N16o4hHd-s&t=157s&ab_channel=LucasSousa
 
